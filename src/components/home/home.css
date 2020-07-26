@@ -1,0 +1,40 @@
+.homeApp {
+    margin-top: 10%;
+    width: 80%;
+    margin-left: 10%;
+    
+}
+
+.imageSliderDiv {
+    height: 500px;
+
+}
+
+img {
+    height: 500px;
+}
+
+.contactDiv {
+    height: 400px;
+    text-align: center;
+    margin-top: 5%;
+    border: 1px solid grey;
+}
+
+.rowContact {
+   margin-top: 10%; 
+}
+
+.titleContact {
+    margin-top: 3%;
+}
+
+.iconsContact {
+    font-size: 25px;
+}
+
+.googleMapsDiv {
+    background-color: black;
+    margin-top: 5%;
+    width: 80%;
+}

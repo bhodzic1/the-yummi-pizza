@@ -1,0 +1,88 @@
+.majorCartDiv {
+    width: 80%;
+    margin-left: 10%;
+}
+.itemListDiv {
+    width: 70%;
+    margin-left: 15%;
+}
+
+hr {
+    width: 100%;
+}
+
+.checkOutButton {
+    background-color: rgba(21, 214, 69);
+    border-radius: 0%;
+    border: 2px solid rgba(21, 214, 69, 0.5);
+    opacity: 0.6;
+    color: white;
+    font-size: 12px;
+    font-family: 'Segoe UI Light';
+    float: left;
+    height: 40px;
+    margin-left: 10%;
+    width: 75px;
+}
+.checkOutButton:hover {
+    background-color: green;
+    border-radius: 0%;
+    border: 2px solid rgba(16, 122, 30, 0.8);
+    color: white;
+}
+
+.checkOutButton:checked {
+    background-color: white;
+    border-radius: 0%;
+    border: 2px solid rgba(16, 122, 30, 0.8);
+    color: white;
+}
+
+.clearButton {
+    background-color: rgba(214, 30, 30);;
+    border-radius: 0%;
+    border: 2px solid rgba(214, 30, 30, 0.5);
+    opacity: 0.6;
+    color: white;
+    font-size: 12px;
+    font-family: 'Segoe UI Light';
+    float: right;
+    height: 40px;
+    margin-right: 10%;
+    width: 75px;
+}
+.clearButton:hover {
+    background-color: red;
+    border-radius: 0%;
+    border: 2px solid rgba(209, 0, 0, 0.8);
+    color: white;
+}
+
+.clearButton:checked {
+    background-color: white;
+    border-radius: 0%;
+    border: 2px solid rgba(0, 0, 0, 0.8);
+    color: black;
+    font-size: 12px;
+    font-family: 'Segoe UI Light';
+}
+
+.minusButton {
+    
+}
+
+.cartBill {
+    
+
+}
+
+.cartBillDiv {
+    
+}
+
+/*@media screen and (max-width: 900px) and (min-width: 600px) {
+    .buttonsDiv {
+        background-color: tomato;
+        align-items: center;
+    }
+}*/

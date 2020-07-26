@@ -1,0 +1,46 @@
+.nameOfProduct {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.quantityOfProduct {
+    font-style: italic;
+    font-size: 14px;
+}
+
+.nameDiv {
+    width: auto;
+    float: left;
+    height: auto;
+}
+
+.buttonsInCartList {
+    margin-left: auto;
+    width: 50px;
+    height: 30%;
+    overflow: hidden;
+}
+
+.increaseButtonDiv {
+    margin-left: 20%;
+    width: 40%;
+    float: left;
+}
+
+.decreaseButtonDiv {
+    width: 40%;
+    margin-left: 20%;
+    
+}
+
+.increaseButton {
+    
+}
+
+.decreaseButton {
+    
+}
+
+.divOfCartList {
+    overflow: hidden;
+}
